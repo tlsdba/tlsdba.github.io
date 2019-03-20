@@ -1,0 +1,18 @@
+# Site settings
+name: 田浩
+location: 上海
+company: 华东师范大学计算机科学与软件工程学院
+position: 博士
+github: https://github.com/
+facebook: https://www.facebook.com/
+email: nicktian.ecnu@gmail.com
+
+baseurl: "/resume.io"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
