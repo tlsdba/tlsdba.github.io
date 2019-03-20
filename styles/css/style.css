@@ -1691,7 +1691,7 @@ submit
 }
 
 .title-thin {
-    font-size: 4.35em;
+    font-size: 2.35em;
     font-weight: 400;
     margin-bottom: 1.571em;
 }
@@ -6155,7 +6155,7 @@ h1, h2, h3, h4, h5, h6 {
 .ref-author strong {
 	display: block;
     line-height: 1.1;
-    font-size: 1.675em;
+    font-size: 1.375em;
     text-transform: uppercase;
     margin-bottom: 5px;
 }
