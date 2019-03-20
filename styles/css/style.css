@@ -6120,8 +6120,8 @@ h1, h2, h3, h4, h5, h6 {
  .ref-box {
     position: relative;
     padding-left: 140px;
-    padding-bottom: 1.875em;
-    margin-bottom: 2.5em;
+    padding-bottom: 2.875em;
+    margin-bottom: 4.5em;
     min-height: 58px;
     box-sizing: content-box;
 }
