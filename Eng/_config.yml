@@ -1,0 +1,18 @@
+# Site settings
+name: Hao Tian
+location: Shanghai
+company: East China Normal Unversity, Department of Computer Science and Software Engineering
+position: Ph.D. student
+github: https://github.com/
+facebook: https://www.facebook.com/
+email: nicktian.ecnu@gmail.com
+
+baseurl: "/tlsdba.github.io/Eng"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
