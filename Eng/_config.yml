@@ -7,7 +7,7 @@ github: https://github.com/
 facebook: https://www.facebook.com/
 email: nicktian.ecnu@gmail.com
 
-baseurl: "/tlsdba.github.io/Eng"
+baseurl: "/tlsdba.github.io/Eng/"
 
 permalink: /:year/:month/:day/:title/
 
